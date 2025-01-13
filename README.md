@@ -2,7 +2,7 @@
 
 # © Copyright Notice 2025, Khipus.ai - All Rights Reserved.
 
-# Applied_Statistics_Python
+# Applied Statistics with Python
 
 ![alt text](image.png)
 
